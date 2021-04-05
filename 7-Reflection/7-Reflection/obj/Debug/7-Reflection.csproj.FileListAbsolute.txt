@@ -1,0 +1,7 @@
+C:\Users\Computer\Desktop\C#Programming\7-Reflection\7-Reflection\bin\Debug\7-Reflection.exe.config
+C:\Users\Computer\Desktop\C#Programming\7-Reflection\7-Reflection\bin\Debug\7-Reflection.exe
+C:\Users\Computer\Desktop\C#Programming\7-Reflection\7-Reflection\bin\Debug\7-Reflection.pdb
+C:\Users\Computer\Desktop\C#Programming\7-Reflection\7-Reflection\obj\Debug\7-Reflection.csprojAssemblyReference.cache
+C:\Users\Computer\Desktop\C#Programming\7-Reflection\7-Reflection\obj\Debug\7-Reflection.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\C#Programming\7-Reflection\7-Reflection\obj\Debug\7-Reflection.exe
+C:\Users\Computer\Desktop\C#Programming\7-Reflection\7-Reflection\obj\Debug\7-Reflection.pdb

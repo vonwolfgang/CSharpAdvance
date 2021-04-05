@@ -1,0 +1,7 @@
+C:\Users\Computer\Desktop\C#Programming\6-Attributes\6-Attributes\bin\Debug\6-Attributes.exe.config
+C:\Users\Computer\Desktop\C#Programming\6-Attributes\6-Attributes\bin\Debug\6-Attributes.exe
+C:\Users\Computer\Desktop\C#Programming\6-Attributes\6-Attributes\bin\Debug\6-Attributes.pdb
+C:\Users\Computer\Desktop\C#Programming\6-Attributes\6-Attributes\obj\Debug\6-Attributes.csprojAssemblyReference.cache
+C:\Users\Computer\Desktop\C#Programming\6-Attributes\6-Attributes\obj\Debug\6-Attributes.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\C#Programming\6-Attributes\6-Attributes\obj\Debug\6-Attributes.exe
+C:\Users\Computer\Desktop\C#Programming\6-Attributes\6-Attributes\obj\Debug\6-Attributes.pdb
