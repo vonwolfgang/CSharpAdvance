@@ -1,0 +1,13 @@
+C:\Users\Computer\Desktop\C#_programing\C#Programming\2-Exceptions\2-Exceptions\bin\Debug\netcoreapp3.1\2-Exceptions.exe
+C:\Users\Computer\Desktop\C#_programing\C#Programming\2-Exceptions\2-Exceptions\bin\Debug\netcoreapp3.1\2-Exceptions.deps.json
+C:\Users\Computer\Desktop\C#_programing\C#Programming\2-Exceptions\2-Exceptions\bin\Debug\netcoreapp3.1\2-Exceptions.runtimeconfig.json
+C:\Users\Computer\Desktop\C#_programing\C#Programming\2-Exceptions\2-Exceptions\bin\Debug\netcoreapp3.1\2-Exceptions.runtimeconfig.dev.json
+C:\Users\Computer\Desktop\C#_programing\C#Programming\2-Exceptions\2-Exceptions\bin\Debug\netcoreapp3.1\2-Exceptions.dll
+C:\Users\Computer\Desktop\C#_programing\C#Programming\2-Exceptions\2-Exceptions\bin\Debug\netcoreapp3.1\2-Exceptions.pdb
+C:\Users\Computer\Desktop\C#_programing\C#Programming\2-Exceptions\2-Exceptions\obj\Debug\netcoreapp3.1\2-Exceptions.csprojAssemblyReference.cache
+C:\Users\Computer\Desktop\C#_programing\C#Programming\2-Exceptions\2-Exceptions\obj\Debug\netcoreapp3.1\2-Exceptions.AssemblyInfoInputs.cache
+C:\Users\Computer\Desktop\C#_programing\C#Programming\2-Exceptions\2-Exceptions\obj\Debug\netcoreapp3.1\2-Exceptions.AssemblyInfo.cs
+C:\Users\Computer\Desktop\C#_programing\C#Programming\2-Exceptions\2-Exceptions\obj\Debug\netcoreapp3.1\2-Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\C#_programing\C#Programming\2-Exceptions\2-Exceptions\obj\Debug\netcoreapp3.1\2-Exceptions.dll
+C:\Users\Computer\Desktop\C#_programing\C#Programming\2-Exceptions\2-Exceptions\obj\Debug\netcoreapp3.1\2-Exceptions.pdb
+C:\Users\Computer\Desktop\C#_programing\C#Programming\2-Exceptions\2-Exceptions\obj\Debug\netcoreapp3.1\2-Exceptions.genruntimeconfig.cache

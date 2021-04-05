@@ -1,0 +1,13 @@
+C:\Users\Computer\Desktop\C#_programing\C#Programming\1-Collections\1-Collections\bin\Debug\netcoreapp3.1\1-Collections.exe
+C:\Users\Computer\Desktop\C#_programing\C#Programming\1-Collections\1-Collections\bin\Debug\netcoreapp3.1\1-Collections.deps.json
+C:\Users\Computer\Desktop\C#_programing\C#Programming\1-Collections\1-Collections\bin\Debug\netcoreapp3.1\1-Collections.runtimeconfig.json
+C:\Users\Computer\Desktop\C#_programing\C#Programming\1-Collections\1-Collections\bin\Debug\netcoreapp3.1\1-Collections.runtimeconfig.dev.json
+C:\Users\Computer\Desktop\C#_programing\C#Programming\1-Collections\1-Collections\bin\Debug\netcoreapp3.1\1-Collections.dll
+C:\Users\Computer\Desktop\C#_programing\C#Programming\1-Collections\1-Collections\bin\Debug\netcoreapp3.1\1-Collections.pdb
+C:\Users\Computer\Desktop\C#_programing\C#Programming\1-Collections\1-Collections\obj\Debug\netcoreapp3.1\1-Collections.csprojAssemblyReference.cache
+C:\Users\Computer\Desktop\C#_programing\C#Programming\1-Collections\1-Collections\obj\Debug\netcoreapp3.1\1-Collections.AssemblyInfoInputs.cache
+C:\Users\Computer\Desktop\C#_programing\C#Programming\1-Collections\1-Collections\obj\Debug\netcoreapp3.1\1-Collections.AssemblyInfo.cs
+C:\Users\Computer\Desktop\C#_programing\C#Programming\1-Collections\1-Collections\obj\Debug\netcoreapp3.1\1-Collections.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\C#_programing\C#Programming\1-Collections\1-Collections\obj\Debug\netcoreapp3.1\1-Collections.dll
+C:\Users\Computer\Desktop\C#_programing\C#Programming\1-Collections\1-Collections\obj\Debug\netcoreapp3.1\1-Collections.pdb
+C:\Users\Computer\Desktop\C#_programing\C#Programming\1-Collections\1-Collections\obj\Debug\netcoreapp3.1\1-Collections.genruntimeconfig.cache
